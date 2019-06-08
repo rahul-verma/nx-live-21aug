@@ -2,4 +2,4 @@
 Building blocks for live workshops. Don't expect finished goods here!
 
 # For CSE
-https://www.dropbox.com/sh/n7ctcoemhcivxfl/AAB0rsDt4lY4QPhOAx5AItMZa?dl=0
+https://www.dropbox.com/sh/x7q27erf0qh1ipm/AABbIQ0O5AOkGGHMoVDQFmO-a?dl=0
