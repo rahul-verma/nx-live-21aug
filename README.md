@@ -1,5 +1,5 @@
 # py-live
 Building blocks for live workshops. Don't expect finished goods here!
 
-# For CSE
-https://www.dropbox.com/sh/x7q27erf0qh1ipm/AABbIQ0O5AOkGGHMoVDQFmO-a?dl=0
+# For Nutanix Adv Workshop
+https://www.dropbox.com/sh/2lpbacv5ql03x6t/AAAjBatFx43PbtToFxJsJUgfa?dl=0
