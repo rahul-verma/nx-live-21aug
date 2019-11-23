@@ -1,5 +1,4 @@
-# py-live
 Building blocks for live workshops. Don't expect finished goods here!
 
 #Temp
-https://www.dropbox.com/sh/n0i9ag3dto7oyit/AACfUi8VraOWESxKgyMf_njCa?dl=0
+https://www.dropbox.com/sh/e1dp884squr3sec/AABx9HHSmCEbr_ocl9CHKHWTa
